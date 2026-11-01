@@ -8,6 +8,6 @@ Check out my [Portfolio](https://rishabhguha.github.io/portfolio/)!
 
 I enjoy working on complex projects that challenge me to think creatively and develop innovative solutions. I'm a strong believer in the power of teamwork and collaboration, and I always strive to build positive relationships with my colleagues and clients.
 
-When I'm not coding, you can usually find me learning a song my guitar or playing Counter-Strike. 
+When I'm not coding, you can usually find me learning a song my guitar or at the gym.
 
 Feel free to check out my GitHub repositories to see some of my work! If you have any questions or want to collaborate on a project, don't hesitate to reach out. You can contact me at [rishabhguha98@gmail.com](mailto:mailtomerishabhguha98@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-guha/).
